@@ -1,2 +1,2 @@
 # heat_stress_data_descriptor
-Scripts and codes used in Heat Stress methodology
+This is the repository for additional scripts and codes used for analyses described in the Scientific Data article "Gene Expression Profiling of Human Stress". 
