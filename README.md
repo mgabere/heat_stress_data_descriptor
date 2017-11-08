@@ -29,6 +29,16 @@ This is the repository for additional scripts and codes used for analyses descri
    <td>1.44</td>
    <td><a href="http://bioconductor.org/packages/3.0/bioc/html/affy.html">http://bioconductor.org/packages/3.0/bioc/html/affy.html</a></td>
   </tr>
+  <tr>
+  <td>Custom CDF</td>
+  <td>1.5.0</td>
+  <td><a href="http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezgcdf_19.0.0.tar.gz">http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezgcdf_19.0.0.tar.gz</a></td>  
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
 </table> 
 
 <table>
