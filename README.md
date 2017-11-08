@@ -44,6 +44,11 @@ This is the repository for additional scripts and codes used for analyses descri
     <td>19.0.0</td>
     <td><a href="http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezg.db_19.0.0.tar.gz">http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezg.db_19.0.0.tar.gz </a></td>
   </tr>
+    <tr>
+    <td>GLMM SAS</td>
+    <td>9.3.0</td>
+    <td><a href="http://support.sas.com/documentation/cdl/en/statug/66859/HTML/default/viewer.htm#statug_glimmix_details26.htm">http://support.sas.com/documentation/cdl/en/statug/66859/HTML/default/viewer.htm#statug_glimmix_details26.htm/a></td>
+  </tr>
 </table> 
 
   </body>
