@@ -31,17 +31,17 @@ This is the repository for additional scripts and codes used for analyses descri
   </tr>
   <tr>
   <td>Custom CDF</td>
-  <td>1.5.0</td>
+  <td>19.0.0</td>
   <td><a href="http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezgcdf_19.0.0.tar.gz">http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezgcdf_19.0.0.tar.gz</a></td>  
   </tr>
   <tr>
     <td>Custom Probe</td>
-    <td>1.6.2</td>
+    <td>19.0.0</td>
     <td><a href="http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezgprobe_19.0.0.tar.gz">http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezgprobe_19.0.0.tar.gz </a></td>
   </tr>
    <tr>
     <td>Custom DB</td>
-    <td>1.6.2</td>
+    <td>19.0.0</td>
     <td><a href="http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezg.db_19.0.0.tar.gz">http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezg.db_19.0.0.tar.gz </a></td>
   </tr>
 </table> 
