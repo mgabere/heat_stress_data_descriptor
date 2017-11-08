@@ -25,7 +25,7 @@ This is the repository for additional scripts and codes used for analyses descri
 <tr>
 <td>arrayQualityMetrics</td>
 <td>3.2.3</td>
-<td><a href="https://bioconductor.org/packages/release/bioc/html/arrayQualityMetrics.html/">https://bioconductor.org/packages/release/bioc/html/arrayQualityMetrics.html/</a></td>
+<td><a href="https://bioconductor.org/packages/release/bioc/html/arrayQualityMetrics.html/">https://bioconductor.org/packages/release/bioc/html/arrayQualityMetrics.html</a></td>
 </tr>
 <tr>
 <td>Affy</td>
