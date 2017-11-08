@@ -1,6 +1,7 @@
 <h2> Heat Stress Data Descriptor</h2>
 This is the repository for additional scripts and codes used for analyses described in the Scientific Data article "Gene Expression Profiling of Human Stress".
 
+<hr>
 
 <blockquote>
 <p><strong>Langouet-Astrie CJ, Meinsen AL, Grunwald ER, Turner SD, Enke RA. RNA sequencing analysis of the developing chicken retina: a resource for the vision research community. <em>Scientific Data</em> 2016.</strong></p>
