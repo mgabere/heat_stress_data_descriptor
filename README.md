@@ -46,30 +46,4 @@ This is the repository for additional scripts and codes used for analyses descri
   </tr>
 </table> 
 
-<table>
-<tr>
-<td>Software</td>
-<td>Version</td>
-<td>URL</td>
-</tr>
-<tbody>
-<tr>
-<td>arrayQualityMetrics</td>
-<td>3.2.3</td>
-<td><a href="https://bioconductor.org/packages/release/bioc/html/arrayQualityMetrics.html">https://bioconductor.org/packages/release/bioc/html/arrayQualityMetrics.html</a></td>
-</tr>
-<tr>
-<td>Affy</td>
-<td>1.44</td>
-<td><a href="http://bioconductor.org/packages/3.0/bioc/html/affy.html">http://bioconductor.org/packages/3.0/bioc/html/affy.html</a></td>
-</tr>
-<tr>
-<td>Custom CDF (cdf)</td>
-<td>1.5.0</td>
-<td><a href="http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezgcdf_19.0.0.tar.gz">http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezgcdf_19.0.0.tar.gz</a></td>
-</tr>
-<tr>
-<td>Custom CDF (probe)</td>
-<td>1.6.2</td>
-<td><a href="http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezgprobe_19.0.0.tar.gz">http://mbni.org/customcdf/19.0.0/entrezg.download/hgu133plus2hsentrezgprobe_19.0.0.tar.gz </a></td>
-</tr></tbody></table>
+
