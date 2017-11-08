@@ -15,9 +15,9 @@ This is the repository for additional scripts and codes used for analyses descri
 <h2>Software used</h2>
 <table>
 <tr>
-<th>Software</th>
-<th>Version</th>
-<th>URL</th>
+<td>Software</td>
+<td>Version</td>
+<td>URL</td>
 </tr>
 <tbody>
 <tr>
