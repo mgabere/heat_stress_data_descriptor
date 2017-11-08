@@ -55,6 +55,8 @@ This is the repository for additional scripts and codes used for analyses descri
 <p>Code used for all of the quality assessment and data analysis steps are available in each of the scripts below.</p>
 <ol>
 <li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/Quality_control/QC_T0.R">Quality assessment for Time T0 with ArrayQualityMetrics</a></li>
+<li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/Quality_control/QC_T1.R">Quality assessment for Time T1 with ArrayQualityMetrics</a></li>
+<li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/Quality_control/QC_T2.R">Quality assessment for Time T2 with ArrayQualityMetrics</a></li>
 <li><a href="/stephenturner/langouetastrie-scidata2016-chicken-rnaseq-retina-code/blob/master/code/star.sh">Alignment with STAR</a></li>
 <li><a href="/stephenturner/langouetastrie-scidata2016-chicken-rnaseq-retina-code/blob/master/code/featurecounts.sh">Quantitation with featureCounts</a></li>
 <li><a href="/stephenturner/langouetastrie-scidata2016-chicken-rnaseq-retina-code/blob/master/code/deseq2.R">Normalization, visualization, and differential expression analysis with DESeq2</a></li>
