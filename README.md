@@ -7,8 +7,7 @@ This is the repository for additional scripts and codes used for analyses descri
 </blockquote>
 <hr>
 <h2><a href="#data-availability" Data availability</h2>
-<p>Data is available in GEO under the accession number <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65938">GSE65938</a>.</p>
-<table>
+<p>Data is available in GEO under the accession number <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65938">GSE65938</a></p>
 
 <table>
 <thead>
