@@ -2,6 +2,14 @@
 This is the repository for additional scripts and codes used for analyses described in the Scientific Data article "Gene Expression Profiling of Human Stress".
 
 
+<blockquote>
+<p><strong>Langouet-Astrie CJ, Meinsen AL, Grunwald ER, Turner SD, Enke RA. RNA sequencing analysis of the developing chicken retina: a resource for the vision research community. <em>Scientific Data</em> 2016.</strong></p>
+</blockquote>
+<hr>
+<h2><a href="#data-availability" Data availability</h2>
+<p>Data is available in GEO under the accession number <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65938">GSE65938</a>.</p>
+<table>
+
 <table>
 <thead>
 <tr>
