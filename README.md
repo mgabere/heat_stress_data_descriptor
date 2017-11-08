@@ -51,6 +51,16 @@ This is the repository for additional scripts and codes used for analyses descri
   </tr>
 </table> 
 
+<h2>Data analysis code</h2>
+<p>Code used for all of the quality assessment and data analysis steps are available in each of the scripts below.</p>
+<ol>
+<li><a href="/stephenturner/langouetastrie-scidata2016-chicken-rnaseq-retina-code/blob/master/code/fastqc.sh">Quality assessment with FastQC</a></li>
+<li><a href="/stephenturner/langouetastrie-scidata2016-chicken-rnaseq-retina-code/blob/master/code/star.sh">Alignment with STAR</a></li>
+<li><a href="/stephenturner/langouetastrie-scidata2016-chicken-rnaseq-retina-code/blob/master/code/featurecounts.sh">Quantitation with featureCounts</a></li>
+<li><a href="/stephenturner/langouetastrie-scidata2016-chicken-rnaseq-retina-code/blob/master/code/deseq2.R">Normalization, visualization, and differential expression analysis with DESeq2</a></li>
+</ol>
+
+
   </body>
 </html>
 
