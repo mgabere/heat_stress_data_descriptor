@@ -14,13 +14,11 @@ This is the repository for additional scripts and codes used for analyses descri
 
 <h2>Software used</h2>
 <table>
-<thead>
 <tr>
 <th>Software</th>
 <th>Version</th>
 <th>URL</th>
 </tr>
-</thead>
 <tbody>
 <tr>
 <td>arrayQualityMetrics</td>
