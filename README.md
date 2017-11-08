@@ -12,7 +12,7 @@ This is the repository for additional scripts and codes used for analyses descri
 <h2> Data availability</h2>
 <p>Data is available in GEO under the accession number <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90763">GSE90763</a></p>
 
-<h2>Software used</h2>
+<h2>Software and custom CDF used</h2>
  <table style="width:100%">
   <tr>
     <th>Software</th>
