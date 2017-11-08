@@ -20,14 +20,14 @@ This is the repository for additional scripts and codes used for analyses descri
     <th>URL</th>
   </tr>
   <tr>
-    <td>arrayQualityMetrics</td>
+    <td>ArrayQualityMetrics</td>
     <td>3.2.3</td>
     <td><a href="https://bioconductor.org/packages/release/bioc/html/arrayQualityMetrics.html">https://bioconductor.org/packages/release/bioc/html/arrayQualityMetrics.html</a></td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+   <td>Affy</td>
+   <td>1.44</td>
+   <td><a href="http://bioconductor.org/packages/3.0/bioc/html/affy.html">http://bioconductor.org/packages/3.0/bioc/html/affy.html</a></td>
   </tr>
 </table> 
 
