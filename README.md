@@ -57,9 +57,9 @@ This is the repository for additional scripts and codes used for analyses descri
 <li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/Quality_control/QC_T0.R">Quality assessment for Time T0 with ArrayQualityMetrics</a></li>
 <li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/Quality_control/QC_T1.R">Quality assessment for Time T1 with ArrayQualityMetrics</a></li>
 <li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/Quality_control/QC_T2.R">Quality assessment for Time T2 with ArrayQualityMetrics</a></li>
-<li><a href="/stephenturner/langouetastrie-scidata2016-chicken-rnaseq-retina-code/blob/master/code/star.sh">Alignment with STAR</a></li>
-<li><a href="/stephenturner/langouetastrie-scidata2016-chicken-rnaseq-retina-code/blob/master/code/featurecounts.sh">Quantitation with featureCounts</a></li>
-<li><a href="/stephenturner/langouetastrie-scidata2016-chicken-rnaseq-retina-code/blob/master/code/deseq2.R">Normalization, visualization, and differential expression analysis with DESeq2</a></li>
+<li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/expression/brainarray_cdf.R">Quantile normalization and background correction using custom CDF</a></li>
+<li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/expression/GLMM.sas">Differential expression analysis with SAS Generalized Linear Mix Model</a></li>
+<li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/expression/qPCR_stats.sas">Statistics for qPCR</a></li>
 </ol>
 
 
