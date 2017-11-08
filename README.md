@@ -15,14 +15,14 @@ This is the repository for additional scripts and codes used for analyses descri
 <h2>Software used</h2>
  <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Software</th>
+    <th>Version</th>
+    <th>URL</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>arrayQualityMetrics</td>
+    <td>3.2.3</td>
+    <td><a href="https://bioconductor.org/packages/release/bioc/html/arrayQualityMetrics.html">https://bioconductor.org/packages/release/bioc/html/arrayQualityMetrics.html</a></td>
   </tr>
   <tr>
     <td>Eve</td>
