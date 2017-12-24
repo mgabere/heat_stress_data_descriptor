@@ -1,6 +1,7 @@
-# The steps required to perform preprocessing, mapping of probesets into correct gene ID and finding DEG are:
-#    1. Download the CEL files from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90763
-#    2. Place all CEL files in one folder
-#    3. Run brainyarray_cdf.R in R as source("brainyarray_cdf.R"). This will create Heat_stress_expression_brainy_V19.csv.
-#    4. Remove "AFY**" probes from Heat_stress_expression_brainy_V19.csv.
-#    5. Perform repeated measure using Generalized Linear Mixed Model (SAS code) in order to determine DEG.
+The steps required to perform preprocessing, mapping of probesets into correct gene ID and finding DEG are:
+1. Download the CEL files from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90763
+2. Place all CEL files in one folder
+3. Run brainyarray_cdf.R in R as source("brainyarray_cdf.R"). This will create 
+   Heat_stress_expression_brainy_V19.csv.
+4. Remove "AFY**" probes from Heat_stress_expression_brainy_V19.csv.
+5. Perform repeated measure using Generalized Linear Mixed Model (SAS code) in order to determine DEG.
