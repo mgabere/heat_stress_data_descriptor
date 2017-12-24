@@ -32,3 +32,5 @@ eset=cbind(probes,Symbols, eset)
 #Write RMA-normalized, mapped data to file
 #write.table(rma, file = "expression.txt", quote = FALSE, sep = "\t", row.names = FALSE, col.names = TRUE)
 write.table(eset, file = "heat_stress_cdf_v19.csv", quote = FALSE, sep = ",", row.names = FALSE, col.names = TRUE)
+
+
