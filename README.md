@@ -4,7 +4,7 @@ This is the repository for additional scripts and codes used for analyses descri
 <hr>
 
 <blockquote>
-<p><strong> Gabere MN, AlMahri S,  AlDlamy M, Mohammad S, Aziz MA, Bouchama A, Hussein M.
+<p><strong> Gabere MN, AlMahri S,  AlDlamy M, Mohammad S, Aziz MA, Bouchama A and Hussein M.
   Gene Expression Profiling of Human Heat Stress. <em>Scientific Data</em> 2017.</strong></p>
 </blockquote>
 
