@@ -1,6 +1,6 @@
 # The steps required to perform quality control are as follows:
 #    1. Download the CEL files from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90763
 #    2. Separate the CEL files into three folders, where a folder is a specific time point, say T0, T1 or T2
-#    3. For each folder, folder place the specific QC R script. For instance, for folder T0, place QC_T0.R;
+#    3. For each folder, place the specific QC R script. For instance, for folder T0, place QC_T0.R;
 #       folder T1, Place QC_T1.R and so forth
 #    4. Run QC_T0.c, QC_T1.R and QC_T2.R in their respective folders 
