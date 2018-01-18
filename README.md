@@ -5,7 +5,7 @@ This is the repository for additional scripts and codes used for analyses descri
 
 <blockquote>
 <p><strong> Gabere M, Al Mahri S,  Abdullah M, Mohammad S, Aziz MA, Bouchama A and Hussein M.
-  Gene Expression Profiling of Human Heat Stress. <em>Scientific Data</em> 2018.</strong></p>
+  Gene Expression Profiling of Human Peripheral Blood Mononuclear Cells Exposed to Heat Stress. <em>Scientific Data</em> 2018.</strong></p>
 </blockquote>
 
 
