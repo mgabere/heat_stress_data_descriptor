@@ -5,3 +5,11 @@ The steps required to perform preprocessing, mapping of probesets into correct g
    Heat_stress_expression_brainy_V19.csv.
 4. Remove "AFY**" probes from Heat_stress_expression_brainy_V19.csv.
 5. Perform repeated measure using Generalized Linear Mixed Model (SAS code) in order to determine DEG.
+
+In order to determin diffential expressed genes, you will need the following:
+1.The analysis SAS code for the gene expression (GEE_analysis_25percent_final_pub2018)
+2.The Expression file that was used for the differential genes analysis in CSV form (expression_heatstress_three_time_points_190815.csv
+
+As for the statistics for RTPCR validation, you will need the following:
+1. The analysis SAS code for the gene validation (Analysis-RTPCR)
+2  Two datasets for the RTPCR validation in sas format.
