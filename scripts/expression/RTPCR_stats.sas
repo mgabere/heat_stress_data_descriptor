@@ -1,12 +1,11 @@
  /*
  ______________________________________________________________________________________________________________________
 |                                                                                                                      |
-|  Date :             10th 3, 2016                                                                 	                   |
+|  Date :             10th 3, 2016                                                                 	               |
 |                                                                                                                      |
-|  Study Title :      A Model of Exposure to Extreme Environmental Heat Uncovers the Human							               |                                                                            | 
+|  Study Title :      A Model of Exposure to Extreme Environmental Heat Uncovers the Human			       |			               |                                                                            | 
 |                                                                                                                      |
-|  Principal Investigator :     A. Bouchama                                                                            |
-|                                                                                                                      |
+|  Principal Investigator : A. Bouchama                                                                                |
 |                                                                                                                      |
 |______________________________________________________________________________________________________________________|
 
