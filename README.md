@@ -58,8 +58,8 @@ This is the repository for additional scripts and codes used for analyses descri
 <li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/Quality_control/QC_T1.R">Quality assessment for Time T1 with ArrayQualityMetrics</a></li>
 <li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/Quality_control/QC_T2.R">Quality assessment for Time T2 with ArrayQualityMetrics</a></li>
 <li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/expression/brainarray_cdf.R">Quantile normalization and background correction using custom CDF</a></li>
-<li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/expression/GLMM.sas">Differential expression analysis with SAS Generalized Linear Mix Model</a></li>
-<li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/expression/qPCR_stats.sas">Statistics for qPCR</a></li>
+<li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/expression/GEE_analysis_25percent_final_pub2018.sas">Differential expression analysis with SAS Generalized Linear Mix Model</a></li>
+<li><a href="https://github.com/mgabere/heat_stress_data_descriptor/blob/master/scripts/expression/RTPCR_stats.sas">Statistics for qPCR</a></li>
 </ol>
 
 
