@@ -12,4 +12,4 @@ In order to determine diffential expressed genes, you will need the following:
 
 As for the statistics for RTPCR validation, you will need the following:
 1. The analysis SAS code for the gene validation (Analysis-RTPCR)
-2  Two datasets for the RTPCR validation in sas format.
+2  Two datasets for the RTPCR validation in SAS code
