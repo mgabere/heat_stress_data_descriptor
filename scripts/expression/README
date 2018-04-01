@@ -1,4 +1,5 @@
-The steps required to perform preprocessing, mapping of probesets into correct gene ID and finding DEG are:
+The steps required to perform preprocessing, mapping of probesets into correct gene ID and finding differential expressed 
+genes (DEG) are:
 1. Download the CEL files from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90763
 2. Place all CEL files in one folder
 3. Run brainyarray_cdf.R in R as source("brainyarray_cdf.R"). This will create 
@@ -6,7 +7,7 @@ The steps required to perform preprocessing, mapping of probesets into correct g
 4. Remove "AFY**" probes from Heat_stress_expression_brainy_V19.csv.
 5. Perform repeated measure using Generalized Linear Mixed Model (SAS code) in order to determine DEG.
 
-In order to determin diffential expressed genes, you will need the following:
+In order to determine diffential expressed genes, you will need the following:
 1.The analysis SAS code for the gene expression (GEE_analysis_25percent_final_pub2018)
 2.The Expression file that was used for the differential genes analysis in CSV form (expression_heatstress_three_time_points_190815.csv
 
