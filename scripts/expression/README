@@ -1,5 +1,4 @@
-The steps required to perform preprocessing, mapping of probesets into correct gene ID and finding differential expressed 
-genes (DEG) are:
+The steps required to perform preprocessing, mapping of probesets into correct gene ID and finding differential expressed genes (DEG) are:
 1. Download the CEL files from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90763
 2. Place all CEL files in one folder
 3. Run brainyarray_cdf.R in R as source("brainyarray_cdf.R"). This will create 
